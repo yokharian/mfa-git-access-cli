@@ -1,4 +1,4 @@
-### 🌱 I’m currently learning python
+### 🌱 I'am currently learning python
 
 <!--
 - 🔭 I’m currently working on ...
