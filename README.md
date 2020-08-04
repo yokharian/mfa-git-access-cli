@@ -1,5 +1,7 @@
 ### 🌱 I'am currently learning python
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drapaiton&layout=compact)](https://github.com/drapaiton)
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
