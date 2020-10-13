@@ -13,6 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=neobot)](https://github.com/drapaiton/neobot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=paische)](https://github.com/drapaiton/paische)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=drapaiton.github.io)](https://github.com/drapaiton/drapaiton.github.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=microproyecto)](https://github.com/drapaiton/microproyecto)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=paische)](https://github.com/drapaiton/paische)
