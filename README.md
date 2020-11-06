@@ -13,7 +13,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=ts-boilerplate)](https://github.com/drapaiton/ts-boilerplate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=ImageDis)](https://github.com/drapaiton/ImageDis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=drapaiton.github.io)](https://github.com/drapaiton/drapaiton.github.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=neobot)](https://github.com/drapaiton/neobot)
