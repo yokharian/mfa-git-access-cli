@@ -1,4 +1,4 @@
-### 🌱 I'am currently learning Typescript
+### 🌱 I'am currently learning any kind of tech
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drapaiton&layout=compact)](https://github.com/drapaiton)
 -->
