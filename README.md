@@ -15,4 +15,3 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=neobot)](https://github.com/drapaiton/neobot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=ImageDis)](https://github.com/drapaiton/ImageDis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=drapaiton.github.io)](https://github.com/drapaiton/drapaiton.github.io)
