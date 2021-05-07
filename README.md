@@ -1,4 +1,4 @@
-### 🌱 I'am currently learning any kind of tech
+### 🌱 Look at the best of my work
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drapaiton&layout=compact)](https://github.com/drapaiton)
 -->
@@ -13,5 +13,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=MicroProyecto)](https://github.com/drapaiton/MicroProyecto)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=Exam-DS-A)](https://github.com/drapaiton/Exam-DS-A)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=drapaiton.github.io)](https://github.com/drapaiton/drapaiton.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drapaiton&repo=Factory-Sample)](https://github.com/drapaiton/Factory-Sample)
