@@ -1,8 +1,5 @@
-### 🌱 Look at the best of my work
+### 🌱 Read my blog posts
 
-<a href="https://github.com/yokharian/cdk-apache-airflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yokharian&repo=portfolio" />
-</a>
-<a href="https://github.com/yokharian/cdk-apache-airflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yokharian&repo=cdk-apache-airflow" />
-</a>
+| How I automated invoice extraction | How I extract analytics from Google |
+|----------|----------|
+| ![https://www.sofia.escobedo.mx/en/blog/invoice-extraction-automation](https://www.sofia.escobedo.mx/assets/images/invoice-extraction.webp)  <br> | ![https://www.sofia.escobedo.mx/en/blog/google-analytics-data-extractor](https://www.sofia.escobedo.mx/assets/images/google-analytics.webp) <br> |
