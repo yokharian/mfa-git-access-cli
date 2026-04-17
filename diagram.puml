@@ -1,0 +1,32 @@
+@startuml MFA Git Access CLI
+!theme plain
+skinparam componentStyle rectangle
+
+actor "Developer" as dev
+participant "MFA Git\nCLI" as cli
+participant "AWS STS" as sts
+participant "Git\nCredential\nHelper" as git
+actor "Authenticator\nApp" as mfa
+
+dev -> cli: mfa-git-auth
+cli -> dev: Enter MFA code
+dev -> mfa: Get code from\nauthenticator app
+mfa --> dev: 6-digit code
+dev -> cli: Provide MFA code
+
+cli -> sts: AssumeRole\n(MFA code + ARN)
+sts --> cli: Temporary credentials\n(access key, secret, session)
+
+cli -> git: Configure credential helper\nwith temp credentials
+cli -> dev: QR code (first-time setup)
+
+dev -> git: git clone/push/pull
+git -> dev: Transparent auth\n(no password prompt)
+
+note right of sts
+  Credentials expire
+  after configured duration.
+  Developer re-runs CLI.
+end note
+
+@enduml
