@@ -29,9 +29,6 @@ Cross-platform Python CLI for ephemeral MFA-based Git repository authentication 
 - Self-service for 60+ developers
 - No long-lived credentials stored anywhere
 
-## Architecture
-
-See [diagram.puml](./diagram.puml) for authentication flow.
 
 ## References
 
