@@ -1,5 +1,7 @@
 # MFA Git Access CLI
 
+![Architecture](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/yokharian/mfa-git-access-cli/master/diagram.puml)
+
 Cross-platform Python CLI for ephemeral MFA-based Git repository authentication using AWS STS. No long-lived credentials.
 
 ## Tech Stack

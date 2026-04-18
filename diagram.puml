@@ -1,5 +1,5 @@
 @startuml MFA Git Access CLI
-!theme plain
+!theme sketchy-outline
 skinparam componentStyle rectangle
 
 actor "Developer" as dev
